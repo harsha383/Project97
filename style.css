@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(#0066cc,#0069cf,#006bd1,#006ed4,#0070d6,#0073d9,#0075db,#0078de,#007ae0,#007de3,#0080e6,#0082e8,#0085eb,#0087ed,#008af0,#008cf2,#008ff5,#0091f7,#0094fa,#0096fc,#0099ff);
+    background-size: 100000000000000000000000000000000000000000000000000000000000000000000000000000000000000%;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+.login_div {
+    background: rgb(146, 239, 255);
+    border-radius: 15px;
+    border-width: 2px;
+    border-color: darkblue;
+    border-style: ridge;
+    padding-top: 0px;
+    float: none;
+}
+#header {
+    top: 0px;
+    background: darkblue;
+    font-size: 24px;
+    font-family: serif;
+    color: aqua;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.header {
+    color: white;
+    font-family: 'Yeon Sung';
+    font-size: 60px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: darkblue;
+    letter-spacing: 10px;
+    margin-top: 80px;
+    font-style:oblique;
+    letter-spacing: 1px;
+}
+#logout {
+    margin-left: 90%;
+    text-align: left;
+    vertical-align: top;
+    font-size: 20px;
+}
+#login {
+    text-align: left;
+    vertical-align: top;
+    font-size: 20px;
+}
